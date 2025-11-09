@@ -67,7 +67,3 @@ It simplifies repetitive system tasks, saves time, and ensures reliability in pe
 
 ---
 
-##  Future Improvements
-- Add email notifications  
-- Include disk usage monitoring  
-- Add GUI front-end using Zenity or YAD  
