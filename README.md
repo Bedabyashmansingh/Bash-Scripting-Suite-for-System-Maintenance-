@@ -39,9 +39,9 @@ chmod +x *.sh
 ##  Sample Output
 ```
 
-      System Maintenance Suite
+System Maintenance Suite
 
-1️  Run Backup
+1️ Run Backup
 2️ Update System
 3️ Monitor Logs
 4️ Exit
