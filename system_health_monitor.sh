@@ -35,7 +35,7 @@ if [ -n "$MEM_ALERT" ]; then
   echo "$MEM_ALERT"
 fi
 
-# ✅ Summary
+#  Summary
 echo ""
-echo "✅ System health check completed!"
+echo " System health check completed!"
 echo "Reports saved in current directory."
