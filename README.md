@@ -2,7 +2,7 @@
 
 ###  Author
 **Name:** Bedabyash Manasingh Omm  
-**Course:** Linux Operating System & LSP Capstone Project  
+**Project:** Capstone Project  
 **Institute:** ITER, Siksha ‘O’ Anusandhan  
 
 ---
